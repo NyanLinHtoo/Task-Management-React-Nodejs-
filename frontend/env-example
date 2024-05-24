@@ -1,0 +1,7 @@
+VITE_CLOUD_NAME = "dtzlrlxe8"
+VITE_API_KEY = "488972428838129"
+VITE_API_SECRET = "_nwo0U5c9C9JcdUXL0EGSCQCB54"
+VITE_ENDPOINT = "http://localhost:3000/"
+VITE_API_ENDPOINT = "http://localhost:3000/api"
+VITE_AUTH_API_ENDPOINT = "http://localhost:3000/auth"
+VITE_UPLOAD_PRESET = "auswdo4s"

@@ -1,0 +1,25 @@
+.leftNav {
+  border-bottom: 0;
+  width: 100%;
+  height: 50px;
+  background-color: inherit
+}
+
+.ant-drawer {
+  display: none !important;
+}
+
+@media screen and (max-width: 800px) {
+  .leftNav {
+    display: none;
+  }
+  .ant-drawer {
+    display: block !important;
+  }
+}
+
+@media  screen and (max-width: 378px) {
+  .ant-drawer-content-wrapper {
+    width: 100vw !important;
+  }
+}

@@ -1,0 +1,16 @@
+PORT=3000
+BASE_URL=http://localhost:3000
+CLIENT_URL=http://localhost:5173
+SERVICE=gmail
+DATABASE_URL_NON_POOLING=postgres://postgres:root@localhost:5432/task_mng_sys
+POSTGRES_HOST=localhost
+DB_PORT=5432
+POSTGRES_DATABASE=task_mng_sys
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=root
+DEFAULT_PROFILE_IMAGE=https://res.cloudinary.com/dtzlrlxe8/image/upload/v1684202136/default_profile_bdiywh.webp
+DEFAULT_PASSWORD=password1234
+HOST=127.0.0.1
+user='mtm.taskmanagement@gmail.com'
+PASS=veoniobilrlooskx
+JWT_SECRET=task_mng_sys_2023

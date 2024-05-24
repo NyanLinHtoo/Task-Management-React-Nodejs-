@@ -1,0 +1,8 @@
+.ant-table-pagination.ant-pagination{
+  justify-content: center;
+}
+
+.ant-dropdown-menu-horizontal {
+  display: flex;
+  justify-content: center;
+}

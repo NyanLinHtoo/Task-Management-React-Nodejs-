@@ -1,0 +1,45 @@
+.name {
+  font-size: 16px;
+  font-weight: 600;
+  color: #000;
+  margin: 0;
+}
+
+.count {
+  display: inline-block;
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 0;
+  color: #000;
+  background: #f2f2f2;
+  border-radius: 10px;
+  padding: 3px 20px;
+}
+
+.ant-card {
+  transition: all 0.3s ease;
+}
+
+.first-card {
+  background-image: linear-gradient(to right, #f7e0d6 0%, #ace0f9 100%);
+}
+
+.second-card {
+  background-image: linear-gradient(to right, #ace0f9 0%, #cdb6db 100%);
+}
+
+.third-card {
+  background-image: linear-gradient(to right, #cdb6db 0%, #ace0f9 100%);
+}
+
+.fourth-card {
+  background-image: linear-gradient(to right, #ace0f9 0%, #fff1eb 100%);
+}
+
+.ant-card:hover {
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+}
+
+.ant-card-body {
+  padding: 10px !important;
+}

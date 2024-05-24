@@ -1,0 +1,52 @@
+// Project
+export const PROJECT_NAME = 'Project name is required.';
+export const PROJECT_LANGUAGE = 'Project language is required.';
+export const PROJECT_START_DATE = 'Project start date is required.';
+export const PROJECT_END_DATE = 'Project end date is required.';
+export const DELETE_PROJECT = 'Are you sure you want to delete this project?';
+export const DATE_VALIDATE = 'End date cannot be earlier than start date.';
+export const PROJECT_DELETE_SUCCESS = 'Project deleted successfully.';
+export const PROJECT_CREATE_SUCCESS = 'Project created successfully.';
+export const PROJECT_CREATE_FAILED = 'Project created failed.';
+export const PROJECT_UPDATE_SUCCESS = 'Project updated successfully.';
+export const PROJECT_UPDATE_FAILED = 'Project updated failed.';
+// Employee
+export const EMPLOYEE_CREATE_SUCCESSFUL = "Employee created successfully. Please check your email to verify your account.";
+export const EMPLOYEE_UPDATE_SUCCESSFUL = "Employee updated successfully.";
+export const EMPLOYEE_DELETE_SUCCESSFUL = "Employee deleted successfully.";
+export const EMPLOYEE_DELETE_CANCELLED = "Employee deletion cancelled.";
+export const EMPLOYEE_DELETE_CONFIRMATION = "Are you sure you want to delete this employee?";
+export const EMPLOYEE_DELETE_CONFIRMATION_TITLE = "Delete Employee.";
+export const EMAIL_REQUIRED = "Email is required.";
+export const EMAIL_INVALID = "The email must be a valid email address.";
+export const EMAIL_ALREADY_EXISTS = "Employee with email already exist.";
+export const NAME_REQUIRED = "Name is required.";
+export const INVALID_FILE_TYPE = "Invalid file type.";
+export const PASSWORD_REQUIRED = " is required.";
+export const PASSWORD_MIN_LENGTH = "Password must be at least 6 characters.";
+export const PASSWORD_MISMATCH = "New password and Confirm password must be same.";
+export const PASSWORD_SHOULD_NOT_MATCH = "Old Password and New password must not be the same.";
+//Tasks
+export const PROJECT = "Project is required.";
+export const TASK_TITLE = "Task title is required.";
+export const TASK_DESCRIPTION = "Task description is required.";
+export const ASSIGNED_EMPLOYEE = "Assigned employee is required.";
+export const TASK_CREATE_SUCCESSFUL = "Task created successfully.";
+export const TASK_CREATE_FAILED = "Task created failed.";
+export const TASK_UPDATE_SUCCESSFUL = "Task updated successfully.";
+export const TASK_UPDATE_FAILED = "Task updated failed.";
+export const TASK_DATE_VALIDATE = "Finish date cannot be earlier than start date.";
+export const ESTIMATE_HOUR = "Estimate hour is required.";
+// Reports
+export const REPORT_CREATE_SUCCESS = "Report created successfully.";
+export const REPORT_CREATE_FAILED = "Report created failed.";
+export const ADMIN_REQUIRED = "Please select admin.";
+export const TASK_ID_REQUIRED = "Please select task.";
+export const PERCENTAGE_REQUIRED = "Please fill percentage.";
+export const TYPE_REQUIRED = "Please select type.";
+export const STATUS_REQUIRED = "Please select status.";
+export const HOUR_REQUIRED = "Please fill hour.";
+export const HOUR_MIN = "Hour cannot be less than 0.";
+export const TOTAL_HOUR = "Total hour cannot be greater than 8hrs.";
+export const PERCENTAGE_MAX = "Percentage cannot be greater than 100.";
+export const PERCENTAGE_MIN = "Percentage cannot be less than 0.";
